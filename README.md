@@ -52,7 +52,8 @@ The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbar
 
 We are thrilled to offer these finely-tuned large language models to the public, free of charge. Our goal is to foster a collaborative and inclusive environment where technological advancements are accessible to all, especially for the development and enhancement of AI in the Azerbaijani language.
 
-Usage Guidelines:
+__Usage Guidelines:__
 
 Free Access: Everyone is welcome to use these models. We believe in the open dissemination of knowledge and resources, especially in the ever-evolving field of AI.
+
 Acknowledgment of ADC: While these models are free, we kindly request that any use of these models in your projects, research, or applications includes an acknowledgment of the Alas Development Center. A simple mention or citation would greatly support our ongoing efforts and contributions to the AI community.
