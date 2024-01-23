@@ -43,10 +43,8 @@ The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbar
 
 [Team Member Name]()
 
-11. **License**
-    - Information about the project's licensing
       
-12. **Acknowledgement and Usage Terms**
+11. **Acknowledgement and Usage Terms**
 
 "project/barbarossa" is a proud product of the Alas Development Center (ADC). ADC, a leader in technological innovation and development, has spearheaded this project as part of its commitment to advancing the field of artificial intelligence, with a special focus on linguistic diversity and inclusion.
 
