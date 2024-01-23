@@ -7,6 +7,9 @@
 
 "project/Barbarossa", a pioneering initiative to fine-tune large language models (LLMs) on the Azerbaijani translation of the Stanford Alpaca dataset. This project represents a significant step in enhancing natural language processing capabilities for the Azerbaijani language. Utilizing the self-instruct method, our aim is to improve the understanding and generation of Azerbaijani text in AI models.
 
+The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbaros Hayrettin Pasha, a figure synonymous with exploration, mastery, and transformation in maritime history. Just as Barbarossa played a pivotal role in establishing Ottoman supremacy in the Mediterranean through strategic conquests and naval innovation, this project aims to navigate the uncharted waters of Azerbaijani language AI. The name 'Barbarossa' symbolizes our ambition to lead and innovate in this field, much like the historical figure who transformed the maritime dynamics of his era.
+
+
 2. **Background**
    - Information about Stanford Alpaca dataset
    - The concept of instruction-tuning and self-instruct method
@@ -40,8 +43,16 @@
 
 [Team Member Name]()
 
-9. **License**
+11. **License**
     - Information about the project's licensing
       
-11. **Appendices**
-The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbaros Hayrettin Pasha, a figure synonymous with exploration, mastery, and transformation in maritime history. Just as Barbarossa played a pivotal role in establishing Ottoman supremacy in the Mediterranean through strategic conquests and naval innovation, this project aims to navigate the uncharted waters of Azerbaijani language AI. The analogy lies in the pioneering spirit of Barbarossa, reflecting our venture into developing advanced language models for Azerbaijani – a linguistic territory that is yet to be fully explored and harnessed in the realm of AI. The name 'Barbarossa' symbolizes our ambition to lead and innovate in this field, much like the historical figure who transformed the maritime dynamics of his era.
+12. **Acknowledgement and Usage Terms**
+
+"project/barbarossa" is a proud product of the Alas Development Center (ADC). ADC, a leader in technological innovation and development, has spearheaded this project as part of its commitment to advancing the field of artificial intelligence, with a special focus on linguistic diversity and inclusion.
+
+We are thrilled to offer these finely-tuned large language models to the public, free of charge. Our goal is to foster a collaborative and inclusive environment where technological advancements are accessible to all, especially for the development and enhancement of AI in the Azerbaijani language.
+
+Usage Guidelines:
+
+Free Access: Everyone is welcome to use these models. We believe in the open dissemination of knowledge and resources, especially in the ever-evolving field of AI.
+Acknowledgment of ADC: While these models are free, we kindly request that any use of these models in your projects, research, or applications includes an acknowledgment of the Alas Development Center. A simple mention or citation would greatly support our ongoing efforts and contributions to the AI community.
