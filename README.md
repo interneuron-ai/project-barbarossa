@@ -3,10 +3,6 @@
 ![barbarossa](https://github.com/Alas-Development-Center/project-barbarossa/assets/31247506/c4b25e4d-06a3-4d84-ac5f-0ee0f9aa49b6)
 
 
-
-### Readme Structure:
-
-
 1. **Introduction**
 
 "project/barbarossa", a pioneering initiative to fine-tune large language models (LLMs) on the Azerbaijani translation of the Stanford Alpaca dataset. This project represents a significant step in enhancing natural language processing capabilities for the Azerbaijani language. Utilizing the self-instruct method, our aim is to improve the understanding and generation of Azerbaijani text in AI models.
