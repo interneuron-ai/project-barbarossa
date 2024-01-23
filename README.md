@@ -39,14 +39,14 @@ The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbar
       
 10. **Team members**
 
-"project/barbarossa" is not just a product of technology and data; it's a culmination of efforts by a dedicated team of professionals. Each member has brought unique skills and insights to the project, driving it towards success. Here, we proudly introduce the individuals behind this groundbreaking initiative:
+"project/Barbarossa" is not just a product of technology and data; it's a culmination of efforts by a dedicated team of professionals. Each member has brought unique skills and insights to the project, driving it towards success. Here, we proudly introduce the individuals behind this groundbreaking initiative:
 
 [Team Member Name]()
 
       
 11. **Acknowledgement and Usage Terms**
 
-"project/barbarossa" is a proud product of the Alas Development Center (ADC). ADC, a leader in technological innovation and development, has spearheaded this project as part of its commitment to advancing the field of artificial intelligence, with a special focus on linguistic diversity and inclusion.
+"project/Barbarossa" is a proud product of the Alas Development Center (ADC). ADC, a leader in technological innovation and development, has spearheaded this project as part of its commitment to advancing the field of artificial intelligence, with a special focus on linguistic diversity and inclusion.
 
 We are thrilled to offer these finely-tuned large language models to the public, free of charge. Our goal is to foster a collaborative and inclusive environment where technological advancements are accessible to all, especially for the development and enhancement of AI in the Azerbaijani language.
 
