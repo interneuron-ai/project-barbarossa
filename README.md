@@ -22,29 +22,33 @@ The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbar
 4. **Methodology**
    - Detailed description of the fine-tuning process
    - Explanation of how the Stanford Alpaca dataset was translated into Azerbaijani
-   - Information about the 20 LLMs used
+   - Information about the 30+ LLMs used
 
-5. **Results and Findings**
-   - Summary of key findings
-   - Any notable improvements or challenges encountered
+5. **Evaluation**
+Accuracy Metrics: Present detailed statistics on the models' performance improvements, such as increased accuracy in language understanding and generation tasks when compared to baseline models. This could include metrics like BLEU scores for translation accuracy, F1 scores for question-answering tasks, and perplexity scores for language modeling.
+   
+Speed and Efficiency: Analyze the computational efficiency of the fine-tuned models in terms of processing speed and resource consumption. Comparisons with pre-fine-tuning performance can illustrate the optimizations achieved through the project.
+
+Contextual Understanding: Through case studies or specific examples, demonstrate the models' improved understanding of context in Azerbaijani text. This might include their ability to discern subtle nuances in meaning and maintain context over longer stretches of text.
+
+5. **Challenges and Limitations**
+Technical Limitations: Discuss any technical hurdles encountered during the fine-tuning process, such as limitations in computing resources, difficulties in dataset translation, or challenges in model convergence.
+Linguistic Limitations: Address linguistic challenges faced, including those related to translating the dataset and ensuring the models' nuanced understanding of Azerbaijani.
 
 6. **Usage and Guidelines**
    - Instructions on how to use the fine-tuned models
    - Any prerequisites or dependencies
 
-7. **Contributing**
-   - Guidelines for contributing to the project
-   - Contact information for lead contributors
-
       
-10. **Team members**
+7. **Team members**
 
-"project/Barbarossa" is not just a product of technology and data; it's a culmination of efforts by a dedicated team of professionals. Each member has brought unique skills and insights to the project, driving it towards success. Here, we proudly introduce the individuals behind this groundbreaking initiative:
+The success of project/Barbarossa is a testament to the collective effort of a multidisciplinary team, comprising AI researchers, data scientists, linguists specializing in Azerbaijani language, software engineers, and project managers. Each member has contributed their expertise to navigate the challenges and achieve the project's objectives effectively. While individual contributions are numerous, the project's success is attributed to the cohesive and collaborative spirit of the entire team.
+
 
 [Team Member Name]()
 
       
-11. **Acknowledgement and Usage Terms**
+8. **Acknowledgement and Usage Terms**
 
 "project/Barbarossa" is a proud product of the Alas Development Center (ADC). ADC, a leader in technological innovation and development, has spearheaded this project as part of its commitment to advancing the field of artificial intelligence, with a special focus on linguistic diversity and inclusion.
 
