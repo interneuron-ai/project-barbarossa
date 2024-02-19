@@ -32,15 +32,19 @@ Speed and Efficiency: Analyze the computational efficiency of the fine-tuned mod
 Contextual Understanding: Through case studies or specific examples, demonstrate the models' improved understanding of context in Azerbaijani text. This might include their ability to discern subtle nuances in meaning and maintain context over longer stretches of text.
 
 5. **Challenges and Limitations**
+   
 Technical Limitations: Discuss any technical hurdles encountered during the fine-tuning process, such as limitations in computing resources, difficulties in dataset translation, or challenges in model convergence.
+
 Linguistic Limitations: Address linguistic challenges faced, including those related to translating the dataset and ensuring the models' nuanced understanding of Azerbaijani.
 
-6. **Usage and Guidelines**
-   - Instructions on how to use the fine-tuned models
-   - Any prerequisites or dependencies
+7. **Usage and Guidelines**
+ We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. To ensure you can seamlessly integrate and utilize these models, please follow the instructions and take note of any prerequisites or dependencies detailed below:
 
+  LLM name | LLM description | LLM paramater size | Pretrained LLM url (Huggingface) | 
+--- | --- | --- | --- |
+Seconds | 301 | 283 | 290 | 
       
-7. **Team members**
+8. **Team members**
 
 The success of project/Barbarossa is a testament to the collective effort of a multidisciplinary team, comprising AI researchers, data scientists, linguists specializing in Azerbaijani language, software engineers, and project managers. Each member has contributed their expertise to navigate the challenges and achieve the project's objectives effectively. While individual contributions are numerous, the project's success is attributed to the cohesive and collaborative spirit of the entire team.
 
@@ -54,8 +58,11 @@ The success of project/Barbarossa is a testament to the collective effort of a m
 
 We are thrilled to offer these finely-tuned large language models to the public, free of charge. Our goal is to foster a collaborative and inclusive environment where technological advancements are accessible to all, especially for the development and enhancement of AI in the Azerbaijani language.
 
-__Usage Guidelines:__
 
-Free Access: Everyone is welcome to use these models. We believe in the open dissemination of knowledge and resources, especially in the ever-evolving field of AI.
+9. **Research and Development Notice**
 
-Acknowledgment of ADC: While these models are free, we kindly request that any use of these models in your projects, research, or applications includes an acknowledgment of the Alas Development Center. A simple mention or citation would greatly support our ongoing efforts and contributions to the AI community.
+__Please note that these models are provided primarily for research purposes. In our endeavor to contribute to the field, we have fine-tuned several large language models (LLMs) specifically for Azerbaijani language processing. Due to resource constraints, the fine-tuning process was limited to 5000 steps for some LLMs. This approach was adopted to demonstrate the potential and viability of enhancing Azerbaijani language capabilities within AI models, despite the limitations faced.__
+
+__As such, while these models represent a significant step forward, they should be considered as part of ongoing research and development efforts. We encourage users to experiment with these models within their projects and research, bearing in mind the context of their training and the scope of their optimization.__
+
+__By sharing these models, we hope to foster a collaborative and innovative environment where technological advancements are accessible to all, contributing to the diversification and inclusivity of AI research and development.__
