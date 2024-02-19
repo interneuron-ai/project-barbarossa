@@ -37,14 +37,14 @@ Technical Limitations: Discuss any technical hurdles encountered during the fine
 
 Linguistic Limitations: Address linguistic challenges faced, including those related to translating the dataset and ensuring the models' nuanced understanding of Azerbaijani.
 
-7. **Usage and Guidelines**
+6. **Usage and Guidelines**
  We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. To ensure you can seamlessly integrate and utilize these models, please follow the instructions and take note of any prerequisites or dependencies detailed below:
 
   LLM name | LLM description | LLM paramater size | Pretrained LLM url (Huggingface) | 
 --- | --- | --- | --- |
 Seconds | 301 | 283 | 290 | 
       
-8. **Team members**
+7. **Team members**
 
 The success of project/Barbarossa is a testament to the collective effort of a multidisciplinary team, comprising AI researchers, data scientists, linguists specializing in Azerbaijani language, software engineers, and project managers. Each member has contributed their expertise to navigate the challenges and achieve the project's objectives effectively. While individual contributions are numerous, the project's success is attributed to the cohesive and collaborative spirit of the entire team.
 
