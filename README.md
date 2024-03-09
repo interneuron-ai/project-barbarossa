@@ -8,6 +8,7 @@ The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbar
 
 
 2. **Background**
+   
 Stanford Alpaca Dataset: This dataset, pivotal in the realm of natural language processing, serves as a comprehensive corpus designed for instruction-based learning. It includes a wide array of tasks and prompts that test a model's ability to follow instructions and generate contextually relevant responses.
 
 Instruction-Tuning and Self-Instruct Method: Instruction-tuning refers to the process of adapting models to understand and execute tasks based on natural language instructions. The self-instruct method further refines this approach by allowing models to improve their ability to interpret and act on instructions through iterative self-learning processes.
@@ -15,12 +16,15 @@ Instruction-Tuning and Self-Instruct Method: Instruction-tuning refers to the pr
 Need for Azerbaijani Language Support in LLMs: Despite the rapid advancement in AI and natural language processing, the Azerbaijani language has seen limited representation and support within large language models. This project aims to bridge this gap, trying to understand the AI's understanding and generation capabilities in Azerbaijani.
 
 3. **Objectives**
+   
 Our primary objective with this project is to offer insights into the feasibility and outcomes of fine-tuning large language models (LLMs) for the Azerbaijani language. The fine-tuning process, carried out with limited resources, aims to provide valuable learnings rather than creating a model ready for production use. __Consequently, we recommend approaching this model as a reference or guide for understanding the potential and challenges involved in fine-tuning LLMs for specific languages. It serves as a foundational step towards further research and development, rather than a direct solution for production environments.__ Our goals include:
 
 - Demonstrating the capability to fine-tune LLMs on Azerbaijani language data.
 - Providing a foundation for future advancements and research in Azerbaijani language AI.
 
+
 4. **Methodology**
+   
 The process involved several key steps:
 
 Preparation of the Fine-tuning Dataset: The Stanford Alpaca dataset, originally in English, was translated into Azerbaijani using translation API. Special attention was given to maintaining the integrity and nuances of the instructional content.
@@ -30,7 +34,9 @@ We initially selected over 45+ large language models (LLMs) for fine-tuning, but
 Adaptation Strategy: The fine-tuning process was guided by the self-instruct method, which emphasizes the model's ability to understand and generate responses based on instructional data. This approach not only enhances the model's linguistic capabilities but also its understanding of context and ability to follow complex instructions.
 
 5. **Usage and Guidelines**
- We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. 
+
+
+We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. 
 
   LLM name | LLM description | LLM paramater size | Pretrained LLM url (Huggingface) | 
 --- | --- | --- | --- |
