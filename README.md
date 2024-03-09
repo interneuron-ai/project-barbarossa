@@ -40,31 +40,39 @@ We are excited to share our fine-tuned models with the community and encourage t
 
 Please note: The models listed below represent the preliminary versions fine-tuned for Azerbaijani language tasks, made available for open-source collaboration. These are not the fully optimized versions, which are retained for internal development and further research at Alas Development Center.
 
-  LLM name |  Finetuned LLM url (Huggingface) | 
---- | --- |
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-longchat-base | [alasdevcenter/az-longchat-base](https://huggingface.co/alasdevcenter/az-longchat-base) | 
-az-mpt | [alasdevcenter/az-mpt](https://huggingface.co/alasdevcenter/az-mpt) | 
-az-llama2 | [alasdevcenter/az-llama2](https://huggingface.co/alasdevcenter/az-llama2) | 
-az-dolly | [alasdevcenter/az-dolly](https://huggingface.co/alasdevcenter/az-dolly) | 
-az-gptneo | [alasdevcenter/az-gpt2-alpaca](https://huggingface.co/alasdevcenter/az-gpt2-alpaca) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
-az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+ --- | LLM name |  Finetuned LLM url (Huggingface) | 
+--- | --- | --- |
+1 | az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+2 | az-longchat-base | [alasdevcenter/az-longchat-base](https://huggingface.co/alasdevcenter/az-longchat-base) | 
+3 | az-mpt | [alasdevcenter/az-mpt](https://huggingface.co/alasdevcenter/az-mpt) | 
+4 | az-llama2 | [alasdevcenter/az-llama2](https://huggingface.co/alasdevcenter/az-llama2) | 
+5 | az-dolly | [alasdevcenter/az-dolly](https://huggingface.co/alasdevcenter/az-dolly) | 
+6 | az-gpt2-alpaca | [alasdevcenter/az-gpt2-alpaca](https://huggingface.co/alasdevcenter/az-gpt2-alpaca) | 
+7 | az-longchat | [alasdevcenter/az-longchat](https://huggingface.co/alasdevcenter/az-longchat) | 
+8 | az-tinyllama | [alasdevcenter/az-tinyllama](https://huggingface.co/alasdevcenter/az-tinyllama) | 
+9 | az-openchat | [alasdevcenter/az-openchat](https://huggingface.co/alasdevcenter/az-openchat) | 
+10 | az-vicgalle-gpt2 | [alasdevcenter/az-vicgalle-gpt2](https://huggingface.co/alasdevcenter/az-vicgalle-gpt2) | 
+11 | az-stablelm | [alasdevcenter/az-stablelm](https://huggingface.co/alasdevcenter/az-stablelm) | 
+12 | az-vigogne | [alasdevcenter/az-vigogne](https://huggingface.co/alasdevcenter/az-vigogne) | 
+13 | az-tulu | [alasdevcenter/az-tulu](https://huggingface.co/alasdevcenter/az-tulu) | 
+14 | az-orca-mini | [alasdevcenter/az-orca-mini](https://huggingface.co/alasdevcenter/az-orca-mini) | 
+15 | az-opt | [alasdevcenter/az-opt](https://huggingface.co/alasdevcenter/az-opt) | 
+16 | az-mistral | [alasdevcenter/az-mistral](https://huggingface.co/alasdevcenter/az-mistral) | 
+17 | az-instruct-gpt | [alasdevcenter/az-instruct-gpt](https://huggingface.co/alasdevcenter/az-instruct-gpt) | 
+18 | az-hermes | [alasdevcenter/az-hermes](https://huggingface.co/alasdevcenter/az-hermes) | 
+19 | az-galpaca | [alasdevcenter/az-galpaca](https://huggingface.co/alasdevcenter/az-galpaca) | 
+20 | az-deepseek | [alasdevcenter/az-deepseek](https://huggingface.co/alasdevcenter/az-deepseek) | 
+21 | az-decilm | [alasdevcenter/az-decilm](https://huggingface.co/alasdevcenter/az-decilm) | 
+22 | az-chopt | [alasdevcenter/az-chopt](https://huggingface.co/alasdevcenter/az-chopt) | 
+23 | az-flan-t5 | [alasdevcenter/az-flan-t5](https://huggingface.co/alasdevcenter/az-flan-t5) | 
+24 | az-pandalm | [alasdevcenter/az-pandalm](https://huggingface.co/alasdevcenter/az-pandalm) | 
+25 | az-wizardlm | [alasdevcenter/az-wizardlm](https://huggingface.co/alasdevcenter/az-wizardlm) | 
+26 | az-alpacagpt | [alasdevcenter/az-alpacagpt](https://huggingface.co/alasdevcenter/az-alpacagpt) | 
+27 | az-baize-base | [alasdevcenter/az-baize-base](https://huggingface.co/alasdevcenter/az-baize-base) | 
+28 | az-cerebras | [alasdevcenter/az-cerebras](https://huggingface.co/alasdevcenter/az-cerebras) | 
+29 | az-bloom | [alasdevcenter/az-bloom](https://huggingface.co/alasdevcenter/az-bloom) | 
+
+
 
       
 6. **Team members**
