@@ -38,9 +38,34 @@ Adaptation Strategy: The fine-tuning process was guided by the self-instruct met
 
 We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. 
 
-  LLM name | LLM description | LLM paramater size | Pretrained LLM url (Huggingface) | 
---- | --- | --- | --- |
-Seconds | 301 | 283 | 290 | 
+Please note: The models listed below represent the preliminary versions fine-tuned for Azerbaijani language tasks, made available for open-source collaboration. These are not the fully optimized versions, which are retained for internal development and further research at Alas Development Center.
+
+  LLM name |  Finetuned LLM url (Huggingface) | 
+--- | --- |
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-longchat-base | [alasdevcenter/az-longchat-base](https://huggingface.co/alasdevcenter/az-longchat-base) | 
+az-mpt | [alasdevcenter/az-mpt](https://huggingface.co/alasdevcenter/az-mpt) | 
+az-llama2 | [alasdevcenter/az-llama2](https://huggingface.co/alasdevcenter/az-llama2) | 
+az-dolly | [alasdevcenter/az-dolly](https://huggingface.co/alasdevcenter/az-dolly) | 
+az-gptneo | [alasdevcenter/az-gpt2-alpaca](https://huggingface.co/alasdevcenter/az-gpt2-alpaca) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+az-gptneo | [alasdevcenter/az-gptneo](https://huggingface.co/alasdevcenter/az-gptneo) | 
+
       
 6. **Team members**
 
