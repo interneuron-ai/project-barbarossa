@@ -1,8 +1,5 @@
 # project/Barbarossa: Fine-tuning LLMs on Azerbaijani instruction-tuning dataset
 
-![barbarossa](https://github.com/Alas-Development-Center/project-barbarossa/assets/31247506/c4b25e4d-06a3-4d84-ac5f-0ee0f9aa49b6)
-
-
 1. **Introduction**
 
 "project/Barbarossa", a pioneering initiative to fine-tune large language models (LLMs) on the Azerbaijani translation of the Stanford Alpaca dataset. This project represents a significant step in enhancing natural language processing capabilities for the Azerbaijani language. Utilizing the self-instruct method, our aim is to improve the understanding and generation of Azerbaijani text in AI models.
@@ -11,58 +8,53 @@ The project is named 'Barbarossa' inspired by the Ottoman naval commander Barbar
 
 
 2. **Background**
-   - Information about Stanford Alpaca dataset
-   - The concept of instruction-tuning and self-instruct method
-   - The need for Azerbaijani language support in LLMs
+Stanford Alpaca Dataset: This dataset, pivotal in the realm of natural language processing, serves as a comprehensive corpus designed for instruction-based learning. It includes a wide array of tasks and prompts that test a model's ability to follow instructions and generate contextually relevant responses.
+
+Instruction-Tuning and Self-Instruct Method: Instruction-tuning refers to the process of adapting models to understand and execute tasks based on natural language instructions. The self-instruct method further refines this approach by allowing models to improve their ability to interpret and act on instructions through iterative self-learning processes.
+
+Need for Azerbaijani Language Support in LLMs: Despite the rapid advancement in AI and natural language processing, the Azerbaijani language has seen limited representation and support within large language models. This project aims to bridge this gap, trying to understand the AI's understanding and generation capabilities in Azerbaijani.
 
 3. **Objectives**
-   - Main goals of the project
-   - Expected outcomes
+Our primary objective with this project is to offer insights into the feasibility and outcomes of fine-tuning large language models (LLMs) for the Azerbaijani language. The fine-tuning process, carried out with limited resources, aims to provide valuable learnings rather than creating a model ready for production use. __Consequently, we recommend approaching this model as a reference or guide for understanding the potential and challenges involved in fine-tuning LLMs for specific languages. It serves as a foundational step towards further research and development, rather than a direct solution for production environments.__ Our goals include:
+
+- Demonstrating the capability to fine-tune LLMs on Azerbaijani language data.
+- Providing a foundation for future advancements and research in Azerbaijani language AI.
 
 4. **Methodology**
-   - Detailed description of the fine-tuning process
-   - Explanation of how the Stanford Alpaca dataset was translated into Azerbaijani
-   - Information about the 30+ LLMs used
+The process involved several key steps:
 
-5. **Evaluation**
-Accuracy Metrics: Present detailed statistics on the models' performance improvements, such as increased accuracy in language understanding and generation tasks when compared to baseline models. This could include metrics like BLEU scores for translation accuracy, F1 scores for question-answering tasks, and perplexity scores for language modeling.
-   
-Speed and Efficiency: Analyze the computational efficiency of the fine-tuned models in terms of processing speed and resource consumption. Comparisons with pre-fine-tuning performance can illustrate the optimizations achieved through the project.
+Preparation of the Fine-tuning Dataset: The Stanford Alpaca dataset, originally in English, was translated into Azerbaijani using translation API. Special attention was given to maintaining the integrity and nuances of the instructional content.
 
-Contextual Understanding: Through case studies or specific examples, demonstrate the models' improved understanding of context in Azerbaijani text. This might include their ability to discern subtle nuances in meaning and maintain context over longer stretches of text.
+We initially selected over 45+ large language models (LLMs) for fine-tuning, but upon careful analysis and consideration of the fine-tuning outcomes, it became apparent that not all the initially selected models performed to the anticipated standards.
 
-5. **Challenges and Limitations**
-   
-Technical Limitations: Discuss any technical hurdles encountered during the fine-tuning process, such as limitations in computing resources, difficulties in dataset translation, or challenges in model convergence.
+Adaptation Strategy: The fine-tuning process was guided by the self-instruct method, which emphasizes the model's ability to understand and generate responses based on instructional data. This approach not only enhances the model's linguistic capabilities but also its understanding of context and ability to follow complex instructions.
 
-Linguistic Limitations: Address linguistic challenges faced, including those related to translating the dataset and ensuring the models' nuanced understanding of Azerbaijani.
-
-6. **Usage and Guidelines**
- We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. To ensure you can seamlessly integrate and utilize these models, please follow the instructions and take note of any prerequisites or dependencies detailed below:
+5. **Usage and Guidelines**
+ We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. 
 
   LLM name | LLM description | LLM paramater size | Pretrained LLM url (Huggingface) | 
 --- | --- | --- | --- |
 Seconds | 301 | 283 | 290 | 
       
-7. **Team members**
+6. **Team members**
 
-The success of project/Barbarossa is a testament to the collective effort of a multidisciplinary team, comprising AI researchers, data scientists, linguists specializing in Azerbaijani language, software engineers, and project managers. Each member has contributed their expertise to navigate the challenges and achieve the project's objectives effectively. While individual contributions are numerous, the project's success is attributed to the cohesive and collaborative spirit of the entire team.
+The success of project/Barbarossa is a testament to the collective effort of a multidisciplinary team, comprising AI researchers, software engineers, and project managers. 
 
 
 [Team Member Name]()
 
       
-8. **Acknowledgement and Usage Terms**
-
-"project/Barbarossa" is a proud product of the Alas Development Center (ADC). ADC, a leader in technological innovation and development, has spearheaded this project as part of its commitment to advancing the field of artificial intelligence, with a special focus on linguistic diversity and inclusion.
+7. **Acknowledgement and Usage Terms**
 
 We are thrilled to offer these finely-tuned large language models to the public, free of charge. Our goal is to foster a collaborative and inclusive environment where technological advancements are accessible to all, especially for the development and enhancement of AI in the Azerbaijani language.
 
 
-9. **Research and Development Notice**
+8. **Research and Development Notice**
 
-__Please note that these models are provided primarily for research purposes. In our endeavor to contribute to the field, we have fine-tuned several large language models (LLMs) specifically for Azerbaijani language processing. Due to resource constraints, the fine-tuning process was limited to 5000 steps for some LLMs. This approach was adopted to demonstrate the potential and viability of enhancing Azerbaijani language capabilities within AI models, despite the limitations faced.__
+Our journey through Project Barbarossa presented several technical challenges, most notably in computing resources. The computational intensity required for fine-tuning large language models (LLMs) necessitated strategic decisions to optimize our resource allocation effectively. Given these constraints, a strategic decision was made to publicly share only the models that were fine-tuned for 5000 steps. This decision was rooted in our aim to demonstrate the potential adaptability and initial performance of these models on Azerbaijani, under limited fine-tuning.
 
-__As such, while these models represent a significant step forward, they should be considered as part of ongoing research and development efforts. We encourage users to experiment with these models within their projects and research, bearing in mind the context of their training and the scope of their optimization.__
+This decision allows us to contribute valuable insights and tools to the field of AI research, specifically in Azerbaijani language processing, while retaining the fully optimized versions of these models for internal use and further development. The models made available are intended to serve as a foundation for research, offering a glimpse into the potential of AI in enhancing language processing capabilities for Azerbaijani.
 
-__By sharing these models, we hope to foster a collaborative and innovative environment where technological advancements are accessible to all, contributing to the diversification and inclusivity of AI research and development.__
+It's important to note that the shared models, while a significant step forward, represent preliminary results of our work. These models are part of an ongoing research effort and should be approached as such. We encourage the community to experiment with and build upon these initial models, keeping in mind their training context and optimization scope.
+
+Our decision not to open-source the fully fine-tuned versions is based on a strategic approach to balancing contribution with the continuation of in-depth research and development. We believe this approach will foster innovation while allowing us to further refine and enhance AI capabilities for the Azerbaijani language.
