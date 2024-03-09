@@ -38,7 +38,7 @@ Adaptation Strategy: The fine-tuning process was guided by the self-instruct met
 
 We are excited to share our fine-tuned models with the community and encourage their use in a variety of applications. 
 
-Please note: The models listed below represent the preliminary versions fine-tuned for Azerbaijani language tasks, made available for open-source collaboration. These are not the fully optimized versions, which are retained for internal development and further research at Alas Development Center.
+*Please note: The models listed below represent the preliminary versions fine-tuned for Azerbaijani language tasks, made available for open-source collaboration. These are not the fully optimized versions, which are retained for internal development and further research at Alas Development Center.*
 
  --- | LLM name |  Finetuned LLM url (Huggingface) | 
 --- | --- | --- |
