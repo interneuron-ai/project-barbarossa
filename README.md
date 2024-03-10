@@ -80,7 +80,19 @@ We are excited to share our fine-tuned models with the community and encourage t
 The success of project/Barbarossa is a testament to the collective effort of a multidisciplinary team, comprising AI researchers, software engineers, and project managers. 
 
 
-[Team Member Name]()
+[Nijat Zeynalov](https://az.linkedin.com/in/nijat-zeynalov-064163142),
+[Natig Mamishov](https://az.linkedin.com/in/natig-mamishov),
+[Zaur Taghiyev](https://az.linkedin.com/in/zaur-tagiyev),
+[Narmin Ibrahimova](https://az.linkedin.com/in/nərmin-ibrahimova-bab29821a),
+[Ali Alakbarli](www.linkedin.com/in/ali-alakbarli-3a1613281),
+[Matin Huseyngulu](www.linkedin.com/in/matin-huseyngulu-719a98204),
+[Kamran Abbasov](http://linkedin.com/in/kamranabbasov),
+[Bayram Bayramli](https://www.linkedin.com/in/bayram-bayramlı),
+[Rashad Damirov](https://www.linkedin.com/in/rəşad-dəmirov-89b124280),
+[Said Shikhizada](https://www.linkedin.com/in/said-shikhizada),
+[Agababa Taghizade](https://www.linkedin.com/in/agababa-tagizade/),
+[Elvin Nasibov](https://www.linkedin.com/in/elvin-nasibov-793879214/),
+[Ilkin Ismayilzade](https://www.linkedin.com/in/ilkin-ismayilzade-24038528a/)
 
       
 7. **Acknowledgement and Usage Terms**
